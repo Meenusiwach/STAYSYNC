@@ -16,5 +16,5 @@ app.get("/", (req, res) => {
 
 app.get("/home" ,(res,req)=>{
     req(get.elementbyId);
-    
+
 })
