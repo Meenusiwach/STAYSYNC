@@ -7,10 +7,8 @@ import hotelsRoute from "./routes/hotels.js";
 import roomsRoute from "./routes/rooms.js";
 import cookieParser from "cookie-parser";
 import cors from "cors";
-
 const app = express();
 dotenv.config();
-
 const connect = async () => {
   try {
     await mongoose.connect(process.env.MONGO);
