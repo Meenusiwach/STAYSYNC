@@ -13,7 +13,7 @@ import Hotel from "../models/Hotel.js";
 import {verifyAdmin} from "../utils/verifyToken.js"
 const router = express.Router();
 
-//CREATE
+//CREATE a new Hotel
 router.post("/", verifyAdmin, createHotel);
 
 //UPDATE
