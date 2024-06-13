@@ -18,7 +18,7 @@ router.post("/", verifyAdmin, createHotel);
 
 //UPDATE a HOTEL
 router.put("/:id", verifyAdmin, updateHotel);
-//DELETE
+//DELETE A HOTEL
 router.delete("/:id", verifyAdmin, deleteHotel);
 //GET
 
