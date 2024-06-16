@@ -9,7 +9,7 @@ const RoomSchema = new mongoose.Schema(
       type: Number,
       required: true,
     },
-    maxPeople: {
+    maxPeople: { 
       type: Number,
       required: true,
     },
