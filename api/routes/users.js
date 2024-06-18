@@ -22,7 +22,7 @@ const router = express.Router();
 //UPDATE the user data
 router.put("/:id", verifyUser, updateUser);
 
-//DELETE
+//DELETE USER DETAILS
 router.delete("/:id", verifyUser, deleteUser);
 
 //GET
