@@ -1,2 +1,2 @@
 # PROJECT2
-WEB D Project related to urban sustainable development 
+WEB D Project related to booking hotels using MERN stack 
