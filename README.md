@@ -79,7 +79,10 @@ Backend runs on **[http://localhost:5000](http://localhost:5000)**
 * Email confirmations
 * Search & filters (price range / location / rating)
 
-Screenshots
+<img width="1490" height="799" alt="image" src="https://github.com/user-attachments/assets/3c2c4de6-6067-47da-8c0b-ee7a86c3293e" />
+<img width="1599" height="778" alt="image" src="https://github.com/user-attachments/assets/514dcccc-2bb1-4655-94ce-b27068ea95c4" />
+
+
 
 
 
