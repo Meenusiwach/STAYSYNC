@@ -45,7 +45,6 @@ cd project
 2) Backend Setup
 cd server
 npm install
-# create .env file
 PORT=5000
 MONGO_URI=YOUR_MONGO_CONNECTION_STRING
 JWT_SECRET=YOUR_SECRET_KEY
