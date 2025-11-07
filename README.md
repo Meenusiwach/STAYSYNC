@@ -10,6 +10,7 @@ Hotel Reservation System (MERN)
 | Auth     | JWT (Role Based Authentication)       |
 
 ✨ Features
+
 -User Side
 * Create account / Login using JWT
 * Search hotels and select date range
